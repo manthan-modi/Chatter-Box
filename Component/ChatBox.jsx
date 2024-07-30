@@ -23,7 +23,7 @@ const ChatBox = ()=> {
         setMessage('');
     }
     return <>
-        <h1>Hello</h1>
+        <h1>Chatter Box</h1>
         <SignOut></SignOut>
         <div>
             {value && value.map((info)=> {
