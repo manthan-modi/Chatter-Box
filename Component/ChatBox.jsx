@@ -55,7 +55,7 @@ const ChatBox = () => {
         sx={{
           marginTop: "5rem",
           padding: "1rem",
-          height: "70vh",
+          height: "80vh",
           overflowY: "auto", // Enables scrolling
           display: "flex",
           flexDirection: "column",
